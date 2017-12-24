@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>java-thread</module>
+  	<module>java-parallelstreams</module>
   </modules>
 </project>
