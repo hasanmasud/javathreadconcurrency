@@ -8,7 +8,12 @@ import java.util.stream.IntStream;
 public class D_StreamExamples {
 
 	public static void main(String... args) {
-		displayDoAlitteMore();
+
+		// System.out.println(Runtime.getRuntime().availableProcessors());
+		// System.setProperty("java.util.concurrent.ForkJoinPool.common.parallelism",
+		// "2");
+
+		displayCommonPool();
 	}
 
 	public static void displayCommonPool() {
