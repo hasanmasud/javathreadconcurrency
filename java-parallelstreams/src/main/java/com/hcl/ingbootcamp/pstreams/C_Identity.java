@@ -1,4 +1,4 @@
-package com.hcl.ingbootcamp.javadesignpattern.pstreams;
+package com.hcl.ingbootcamp.pstreams;
 
 import java.util.Arrays;
 import java.util.List;

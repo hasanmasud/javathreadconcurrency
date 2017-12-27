@@ -1,4 +1,4 @@
-package com.hcl.ingbootcamp.javadesignpattern.lambdas;
+package com.hcl.ingbootcam.lambdas;
 
 import java.util.Arrays;
 import java.util.List;

@@ -8,5 +8,8 @@
   	<module>java-thread</module>
   	<module>java-parallelstreams</module>
   	<module>java-lambda</module>
+  	<module>java-executorframework</module>
+  	<module>java-simpleserver</module>
+  	<module>java-locks</module>
   </modules>
 </project>
